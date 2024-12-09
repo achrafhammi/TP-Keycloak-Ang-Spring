@@ -1,0 +1,6 @@
+### GET request to example server
+POST http://localhost:8181/realms/tp-realm-achraf/protocol/openid-connect/token
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=client_credentials&client_id=secure-client&client_secret=TeuV9xUpjl6bUTrpRkiEjfKwHuT9SYSv
+###
